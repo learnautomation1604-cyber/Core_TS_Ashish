@@ -87,4 +87,65 @@ function throwerror(): never{
 
     throw new Error("Something went wrong")
 }
+// ======================================= Object Data Types ===== =========================
+// Define Objects: Object always consist of properties or calable and constructable signature
 
+let obj = {
+
+    name: "Ashish",
+    id: "HJGHJGJ",
+    email: "",
+    ag: 34,
+
+    salary2026():void{
+        console.log("Hey this the january salary 2026")
+
+    }
+
+};
+
+console.log(obj.name)
+obj.salary2026();
+
+// let obj1{};
+// obj1 =[];
+// obj1 = ()=>{
+
+// }
+
+// Object type with only a method(no data properties)
+
+// type animal={
+//     speak():void;
+// };
+// const dog: animal = {
+
+//     speak(){
+//         console.log("Bark")
+//     }
+// }
+
+
+
+// Specify properties of Object; Optional properties value; readonly property
+
+let Employee : {
+    name: string;
+    readonly dept: number;
+    email?: string;
+    address?:{
+       City: "NY",
+       pincode: 78876
+    }
+};
+
+Employee={
+    name: "Anil",
+    dept: 9869869898,
+    email: ""
+
+
+};
+
+
+// Define - The type() method is used to enter text into an input field one character at a time, simulating keyboard typing.

@@ -1,0 +1,8 @@
+1. Create an Project folder - Comment Level ((mkdir projectname))
+2. Navigation B/W Directory - cd foldername
+3. Install Node - Check Node Installed (node -v, npm -v)
+4. Install ts - npm install -g typescript - Check ts Installed (tsc -v)
+6. Create a typescript file
+7. Compile typescript file
+8. Check typescript is Installed 
+9. 
