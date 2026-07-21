@@ -5,4 +5,8 @@
 6. Create a typescript file
 7. Compile typescript file
 8. Check typescript is Installed 
-9. 
+
+
+=========================ts=============
+
+javascript+Static types = typescripts 
