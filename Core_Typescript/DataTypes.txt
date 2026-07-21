@@ -1,0 +1,24 @@
+Data Types - Primitive Data Types , Non Primitive Data Types
+
+Primitive Data Types:
+1. String 
+2. number
+3. boolean
+4. bigint
+5. symbol
+6. null
+7. undefined
+
+Non Primitive Data Types:
+
+1. Object - An Object is a collection of Key-value pairs
+2. Array
+3. Tuple
+4. Enum
+5. Function
+6. Class
+7. Interface
+8. Type Alias
+
+
+
