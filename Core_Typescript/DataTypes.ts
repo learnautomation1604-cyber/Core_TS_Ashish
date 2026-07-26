@@ -299,10 +299,10 @@
 
 // void - Used for functions that return nothing
 
-function greet():void{
+function greet1():void{
     console.log("Good Morning!!!")
 }
-greet();
+greet1();
 
 // Never - Used when a function never teturns
 
