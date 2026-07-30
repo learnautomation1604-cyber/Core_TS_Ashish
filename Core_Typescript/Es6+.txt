@@ -1,0 +1,15 @@
+Variable (let, const, and block scope)  -  Very very important
+Arrow function - -  Very very important
+Template literals, 
+(Default, rest, spread), 
+(Destructing), 
+(Enanced Object literals), 
+classes -  Very very important
+module(import and Export), -  Very very important
+async wait -  Very Very very important
+
+Array methods (map, filter, reduce, find), -  Very very important
+Promises, -  Very very important 
+Map and set 
+Optional chaining and nullish coalescing. 
+Iterator and generators, 
