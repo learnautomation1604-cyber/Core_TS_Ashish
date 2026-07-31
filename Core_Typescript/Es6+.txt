@@ -7,9 +7,9 @@ Template literals,
 classes -  Very very important
 module(import and Export), -  Very very important
 async wait -  Very Very very important
+Promises, -  Very very important 
 
 Array methods (map, filter, reduce, find), -  Very very important
-Promises, -  Very very important 
 Map and set 
 Optional chaining and nullish coalescing. 
 Iterator and generators, 
