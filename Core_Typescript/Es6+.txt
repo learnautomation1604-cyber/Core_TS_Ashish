@@ -11,5 +11,18 @@ Promises, -  Very very important
 Array methods (map, filter, reduce, find), -  Very very important
 
 Map and set 
+
+Collections framework (Java):
+collection interface - list (Linked list, Array list), set (linked set, Hashset, tree set), queue (stack)
+map - LinkedHashmap, hashmap, tree map
+
+
+Typescript based collection framework -  :  Array, tuple, Map, Set, WeakMap, Weakset
+
+
+
+
+
 Optional chaining and nullish coalescing. 
 Iterator and generators, 
+
