@@ -1,2 +1,5 @@
 What is oops concept Typescript?
-Types of oops concepts Typescript?
+Types of oops concepts Typescript? Class, Object, Abstraction, Encapsulation, Polymorphism, Inheritance
+
+
+
