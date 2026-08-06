@@ -37,18 +37,20 @@
 // Animal.sleep();
 
 
-abstract class atm {
-   abstract withdraw(amount: number): void;
+// abstract class atm {
+//    abstract withdraw(amount: number): void;
     
-}
+// }
 
-class SBIATM extends atm {
-    withdraw(amount: number):void{
-        console.log(`Withdrawing ${amount} from SBI ATM`);
+// class SBIATM extends atm {
+//     withdraw(amount: number):void{
+//         console.log(`Withdrawing ${amount} from SBI ATM`);
 
-    }
+//     }
 
-}
+// }
 
-const ATM = new SBIATM();
-ATM.withdraw(1000);
+// const ATM = new SBIATM();
+// ATM.withdraw(1000);
+
+

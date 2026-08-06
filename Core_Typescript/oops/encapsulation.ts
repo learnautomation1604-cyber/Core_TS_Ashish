@@ -1,5 +1,5 @@
 // Encapsulation - Hides the implementation detils of a class and only exposes the necessary parts to the outside world. It helps in protecting the internal state of an object from unintended interference and misuse.
-
+// Encapsulation means wrapping data and methods into a single class and protecting the data from direct access by making it private and exposing it through public methods.
 class employee{
 
     private _name: string;

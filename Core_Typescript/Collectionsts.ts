@@ -61,4 +61,28 @@
 // | Add              | `add(value)`             | `set(key, value)`                             |
 // | Remove           | `delete(value)`          | `delete(key)`                                 |
 // | Size             | `size`                   | `size`                                        |
-// | Iteration        | Values only              | Keys and values                               |
+// | Iteration or        | Values only              | Keys and values                               |
+
+// | Feature                   | Set               | Map                                      | WeakSet         | WeakMap                                         |
+// | ------------------------- | ----------------- | ---------------------------------------- | --------------- | ----------------------------------------------- |
+// | Stores                    | Unique values     | Key-value pairs                          | Objects only    | Object keys + values                            |
+// | Duplicate values          | ❌ No              | Duplicate keys overwrite previous values | ❌ No            | Duplicate object keys overwrite previous values |
+// | Keys allowed              | N/A               | Any datatype                             | Objects only    | Objects only                                    |
+// | Values allowed            | Any datatype      | Any datatype                             | Objects only    | Any datatype                                    |
+// | Maintains insertion order | ✅ Yes             | ✅ Yes                                    | Not iterable    | Not iterable                                    |
+// | Iterable  (forloop)       | ✅ Yes             | ✅ Yes                                    | ❌ No            | ❌ No                                            |
+// | `size` property           | ✅ Yes             | ✅ Yes                                    | ❌ No            | ❌ No                                            |
+// | `clear()`                 | ✅ Yes             | ✅ Yes                                    | ❌ No            | ❌ No                                            |
+// | Garbage collection        | Normal references | Normal references                           | Weak references | Weak references                                 |
+
+
+// Weakset
+
+// How can we initiate
+
+// WeakMap must have object keys. Specify types for clarity.
+
+
+
+
+// Weakmap

@@ -1,4 +1,5 @@
 What is oops concept Typescript?
+Object-Oriented Programming (OOP) is a programming paradigm that organizes software into objects. Each object contains data (properties) and the methods (functions) that operate on that data. OOP helps build software that is modular, reusable, maintainable, and scalable.
 Types of oops concepts Typescript? Class, Object, Abstraction, Encapsulation, Polymorphism, Inheritance
 
 
